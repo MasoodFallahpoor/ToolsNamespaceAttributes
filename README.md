@@ -1,0 +1,3 @@
+A sample Android app demonstrating the usage of attributes of tools namespace. The app has no real functionality. To see how to use different attributes of xmlns:tools in practice see the layouts defined in 'res/layout' which their name start with tools.
+
+For the complete list of tools namespace attributes refer to [Tools attributes reference](https://developer.android.com/studio/write/tool-attributes)
